@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="TabbedBar.Page1"
+    Title="Jazz"  IconImageSource="baseline_album_24.xml" >
+        <ContentPage.Content>
+        <ScrollView>
+            <StackLayout  HorizontalOptions="Center"  Padding="10">
+                <Image Source="Getz.jpg" HeightRequest="400" WidthRequest="400"></Image>
+                <Label Text="Getz/Gilberto - Album by João Gilberto and Stan Getz" VerticalOptions="Center" HorizontalOptions="Center" TextColor="Black"></Label>
+                <Image Source="Chet.jpg" HeightRequest="400" WidthRequest="400"></Image>
+                <Label Text="Chet Baker Sings - Album by Chet Baker" VerticalOptions="Center" HorizontalOptions="Center" TextColor="Black"></Label>
+                <Image Source="Miles.jpg" HeightRequest="400" WidthRequest="400"></Image>
+                <Label Text="Sketches of Spain - Album by Miles Davis" VerticalOptions="Center" HorizontalOptions="Center" TextColor="Black"></Label>
+                <Image Source="MiltJackson.jpg" HeightRequest="400" WidthRequest="400"></Image>
+                <Label Text="Milt Jackson and the Thelonious Monk Quintet" VerticalOptions="Center" HorizontalOptions="Center" TextColor="Black"></Label>
+
+                <Button Text="Click here to read more about Jazz" Clicked="Button_Clicked" ></Button>
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+    
+</ContentPage>

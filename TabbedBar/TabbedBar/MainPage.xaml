@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<TabbedPage xmlns="http://xamarin.com/schemas/2014/forms"
+            xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+            x:Class="TabbedBar.MainPage"
+            
+            xmlns:local1="clr-namespace:TabbedBar">
+    <local1:Page1>
+        
+    </local1:Page1>
+    
+    <local1:Page2>
+        
+    </local1:Page2>
+    <local1:Page3>
+        
+    </local1:Page3>
+    
+    
+    
+    <local1:Page4>
+        
+    </local1:Page4>
+</TabbedPage>

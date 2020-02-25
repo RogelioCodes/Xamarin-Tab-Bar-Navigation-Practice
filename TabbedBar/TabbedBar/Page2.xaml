@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="TabbedBar.Page2"
+    Title="HipHop"  IconImageSource="baseline_album_24.xml">
+        <ContentPage.Content>
+        <ScrollView>
+            <StackLayout  HorizontalOptions="Center"  Padding="10">
+             
+                <Image Source="midnight.jpg" HeightRequest="400" WidthRequest="400"></Image>
+                <Label Text="Midnight Marauders - Album by A Tribe Called Quest" VerticalOptions="Center" HorizontalOptions="Center" TextColor="Black"></Label>
+                <Image Source="atrocity.jpg" HeightRequest="400" WidthRequest="400"></Image>
+                <Label Text="Atrocity Exhibition - Album by Danny Brown" VerticalOptions="Center" HorizontalOptions="Center" TextColor="Black"></Label>
+                <Image Source="exmilitary.jpg" HeightRequest="400" WidthRequest="400"></Image>
+                <Label Text="Exmilitary - Album by Death Grips" VerticalOptions="Center" HorizontalOptions="Center" TextColor="Black"></Label>
+                <Image Source="massacre.jpg" HeightRequest="400" WidthRequest="400"></Image>
+                <Label Text="The Massacre - Album by 50 Cent" VerticalOptions="Center" HorizontalOptions="Center" TextColor="Black"></Label>
+                <Image Source="marshall.jpg" HeightRequest="400" WidthRequest="400"></Image>
+                <Label Text="The Marshall Mathers LP - Album by Eminem" VerticalOptions="Center" HorizontalOptions="Center" TextColor="Black"></Label>
+                <Button Text="Click here to read more about HipHop" Clicked="Button_Clicked" ></Button>
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+    
+</ContentPage>

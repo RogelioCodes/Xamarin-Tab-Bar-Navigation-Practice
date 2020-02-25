@@ -1,0 +1,17 @@
+C:\Users\Rogelio\source\repos\CS481_HW3_Tab_Rogelio_Cordova\TabbedBar\TabbedBar\bin\Debug\netstandard2.0\TabbedBar.deps.json
+C:\Users\Rogelio\source\repos\CS481_HW3_Tab_Rogelio_Cordova\TabbedBar\TabbedBar\bin\Debug\netstandard2.0\TabbedBar.dll
+C:\Users\Rogelio\source\repos\CS481_HW3_Tab_Rogelio_Cordova\TabbedBar\TabbedBar\bin\Debug\netstandard2.0\ref\TabbedBar.dll
+C:\Users\Rogelio\source\repos\CS481_HW3_Tab_Rogelio_Cordova\TabbedBar\TabbedBar\bin\Debug\netstandard2.0\TabbedBar.pdb
+C:\Users\Rogelio\source\repos\CS481_HW3_Tab_Rogelio_Cordova\TabbedBar\TabbedBar\obj\Debug\netstandard2.0\TabbedBar.csprojAssemblyReference.cache
+C:\Users\Rogelio\source\repos\CS481_HW3_Tab_Rogelio_Cordova\TabbedBar\TabbedBar\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Rogelio\source\repos\CS481_HW3_Tab_Rogelio_Cordova\TabbedBar\TabbedBar\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Rogelio\source\repos\CS481_HW3_Tab_Rogelio_Cordova\TabbedBar\TabbedBar\obj\Debug\netstandard2.0\TabbedBar.AssemblyInfoInputs.cache
+C:\Users\Rogelio\source\repos\CS481_HW3_Tab_Rogelio_Cordova\TabbedBar\TabbedBar\obj\Debug\netstandard2.0\TabbedBar.AssemblyInfo.cs
+C:\Users\Rogelio\source\repos\CS481_HW3_Tab_Rogelio_Cordova\TabbedBar\TabbedBar\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Rogelio\source\repos\CS481_HW3_Tab_Rogelio_Cordova\TabbedBar\TabbedBar\obj\Debug\netstandard2.0\TabbedBar.dll
+C:\Users\Rogelio\source\repos\CS481_HW3_Tab_Rogelio_Cordova\TabbedBar\TabbedBar\obj\Debug\netstandard2.0\ref\TabbedBar.dll
+C:\Users\Rogelio\source\repos\CS481_HW3_Tab_Rogelio_Cordova\TabbedBar\TabbedBar\obj\Debug\netstandard2.0\TabbedBar.pdb
+C:\Users\Rogelio\source\repos\CS481_HW3_Tab_Rogelio_Cordova\TabbedBar\TabbedBar\obj\Debug\netstandard2.0\Page1.xaml.g.cs
+C:\Users\Rogelio\source\repos\CS481_HW3_Tab_Rogelio_Cordova\TabbedBar\TabbedBar\obj\Debug\netstandard2.0\Page2.xaml.g.cs
+C:\Users\Rogelio\source\repos\CS481_HW3_Tab_Rogelio_Cordova\TabbedBar\TabbedBar\obj\Debug\netstandard2.0\Page3.xaml.g.cs
+C:\Users\Rogelio\source\repos\CS481_HW3_Tab_Rogelio_Cordova\TabbedBar\TabbedBar\obj\Debug\netstandard2.0\Page4.xaml.g.cs
