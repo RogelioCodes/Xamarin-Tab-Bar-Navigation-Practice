@@ -10,6 +10,8 @@
         <StackLayout VerticalOptions="Center" HorizontalOptions="Center" >
             <Label Text="I wanted to make an app that displays different album covers. I decided to just make three tabs that all relate to a genre." FontSize="15" TextColor="Black" HorizontalOptions="Center" HorizontalTextAlignment="Center" VerticalTextAlignment="Center"></Label>
             <Label Text="In the future I plan on making an app that generates a new list of albums every time the user refreshes the page." FontSize="15" TextColor="Black" HorizontalOptions="Center" HorizontalTextAlignment="Center" VerticalTextAlignment="Center"></Label>
+            <Label FontSize="15" TextColor="Black" HorizontalOptions="Center" HorizontalTextAlignment="Center" VerticalTextAlignment="Center"
+                Text="A difficulty I had with this app was making the clickable image function reusable. I was not able to figure out how to pass a string parameter containing the required URL. This wouldve made it so that I do not have to write a function for each image. I would appreciate help on how to implemenent this."></Label>
         </StackLayout>
     </ContentPage.Content>
 

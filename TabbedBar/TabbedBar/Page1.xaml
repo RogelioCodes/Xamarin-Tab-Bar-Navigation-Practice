@@ -9,13 +9,13 @@
         <ContentPage.Content>
         <ScrollView>
             <StackLayout  HorizontalOptions="Center"  Padding="10">
-                <Image Source="Getz.jpg" HeightRequest="400" WidthRequest="400"></Image>
+                <Image Source="Getz.jpg" HeightRequest="400" WidthRequest="400" x:Name="picClick"></Image>
                 <Label Text="Getz/Gilberto - Album by João Gilberto and Stan Getz" VerticalOptions="Center" HorizontalOptions="Center" TextColor="Black"></Label>
-                <Image Source="Chet.jpg" HeightRequest="400" WidthRequest="400"></Image>
+                <Image Source="Chet.jpg" HeightRequest="400" WidthRequest="400" x:Name="picClick2"></Image>
                 <Label Text="Chet Baker Sings - Album by Chet Baker" VerticalOptions="Center" HorizontalOptions="Center" TextColor="Black"></Label>
-                <Image Source="Miles.jpg" HeightRequest="400" WidthRequest="400"></Image>
+                <Image Source="Miles.jpg" HeightRequest="400" WidthRequest="400" x:Name="picClick3"></Image>
                 <Label Text="Sketches of Spain - Album by Miles Davis" VerticalOptions="Center" HorizontalOptions="Center" TextColor="Black"></Label>
-                <Image Source="MiltJackson.jpg" HeightRequest="400" WidthRequest="400"></Image>
+                <Image Source="MiltJackson.jpg" HeightRequest="400" WidthRequest="400" x:Name="picClick4"></Image>
                 <Label Text="Milt Jackson and the Thelonious Monk Quintet" VerticalOptions="Center" HorizontalOptions="Center" TextColor="Black"></Label>
 
                 <Button Text="Click here to read more about Jazz" Clicked="Button_Clicked" ></Button>

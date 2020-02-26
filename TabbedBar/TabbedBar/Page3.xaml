@@ -9,14 +9,13 @@
     <ContentPage.Content>
         <ScrollView>
             <StackLayout  HorizontalOptions="Center"  Padding="10">
-                <Label Text="These are some music album covers" FontSize="15" TextColor="Black" HorizontalOptions="Center" HorizontalTextAlignment="Center" VerticalTextAlignment="Center"></Label>
-                <Image Source="FKA.jpg" HeightRequest="400" WidthRequest="400"></Image>
+                <Image Source="FKA.jpg" HeightRequest="400" WidthRequest="400"  x:Name="picClick"></Image>
                 <Label Text="LP1 - Album by FKA Twigs" VerticalOptions="Center" HorizontalOptions="Center" TextColor="Black"></Label>
-                <Image Source="kkb.jpg" HeightRequest="400" WidthRequest="400"></Image>
+                <Image Source="kkb.jpg" HeightRequest="400" WidthRequest="400"  x:Name="picClick2"></Image>
                 <Label Text="Time N Place - Album by Kero Kero Bonito" VerticalOptions="Center" HorizontalOptions="Center" TextColor="Black"></Label>
-                <Image Source="sawa.jpg" HeightRequest="400" WidthRequest="400"></Image>
+                <Image Source="sawa.jpg" HeightRequest="400" WidthRequest="400"  x:Name="picClick3"></Image>
                 <Label Text="RINA - Album by Rina Sawayama" VerticalOptions="Center" HorizontalOptions="Center" TextColor="Black"></Label>
-                <Image Source="heroes.jpg" HeightRequest="400" WidthRequest="400" x:Name="picClick" >
+                <Image Source="heroes.jpg" HeightRequest="400" WidthRequest="400" x:Name="picClick4" >
                 </Image>
                 
                 <Label Text="Heroes - Album by David Bowie" VerticalOptions="Center" HorizontalOptions="Center" TextColor="Black"></Label>
