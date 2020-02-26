@@ -485,3 +485,6 @@ C:\Users\Rogelio\source\repos\CS481_HW3_Tab_Rogelio_Cordova\TabbedBar\TabbedBar.
 C:\Users\Rogelio\source\repos\CS481_HW3_Tab_Rogelio_Cordova\TabbedBar\TabbedBar.Android\obj\Debug\90\res\drawable\kkb.jpg
 C:\Users\Rogelio\source\repos\CS481_HW3_Tab_Rogelio_Cordova\TabbedBar\TabbedBar.Android\obj\Debug\90\res\drawable\sawa.jpg
 C:\Users\Rogelio\source\repos\CS481_HW3_Tab_Rogelio_Cordova\TabbedBar\TabbedBar.Android\obj\Debug\90\res\drawable\heroes.jpg
+C:\Users\Rogelio\source\repos\CS481_HW3_Tab_Rogelio_Cordova\TabbedBar\TabbedBar.Android\obj\Debug\90\res\drawable\baseline_info_24.xml
+C:\Users\Rogelio\source\repos\CS481_HW3_Tab_Rogelio_Cordova\TabbedBar\TabbedBar.Android\obj\Debug\90\res\drawable\baseline_grade_24.xml
+C:\Users\Rogelio\source\repos\CS481_HW3_Tab_Rogelio_Cordova\TabbedBar\TabbedBar.Android\obj\Debug\90\res\drawable\baseline_music_note_24.xml

@@ -5,7 +5,7 @@
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
              mc:Ignorable="d"
              x:Class="TabbedBar.Page4"
-    Title="About"  IconImageSource="baseline_album_24.xml">
+    Title="About"  IconImageSource="baseline_info_24.xml">
     <ContentPage.Content>
         <StackLayout VerticalOptions="Center" HorizontalOptions="Center" >
             <Label Text="I wanted to make an app that displays different album covers. I decided to just make three tabs that all relate to a genre." FontSize="15" TextColor="Black" HorizontalOptions="Center" HorizontalTextAlignment="Center" VerticalTextAlignment="Center"></Label>

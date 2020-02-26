@@ -32,6 +32,9 @@ LinearLayout;C:\Users\Rogelio\source\repos\CS481_HW3_Tab_Rogelio_Cordova\TabbedB
 path;obj\Debug\90\res\drawable\baseline_accessibility_24.xml
 path;obj\Debug\90\res\drawable\baseline_album_24.xml
 path;obj\Debug\90\res\drawable\baseline_bug_report_24.xml
+path;obj\Debug\90\res\drawable\baseline_grade_24.xml
+path;obj\Debug\90\res\drawable\baseline_info_24.xml
+path;obj\Debug\90\res\drawable\baseline_music_note_24.xml
 paths;C:\Users\Rogelio\source\repos\CS481_HW3_Tab_Rogelio_Cordova\TabbedBar\TabbedBar.Android\obj\Debug\90\lp\38\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
 resources;C:\Users\Rogelio\source\repos\CS481_HW3_Tab_Rogelio_Cordova\TabbedBar\TabbedBar.Android\obj\Debug\90\lp\39\jl\res\values\styles.xml
 resources;obj\Debug\90\res\values\colors.xml
@@ -49,4 +52,7 @@ translate;C:\Users\Rogelio\source\repos\CS481_HW3_Tab_Rogelio_Cordova\TabbedBar\
 vector;obj\Debug\90\res\drawable\baseline_accessibility_24.xml
 vector;obj\Debug\90\res\drawable\baseline_album_24.xml
 vector;obj\Debug\90\res\drawable\baseline_bug_report_24.xml
+vector;obj\Debug\90\res\drawable\baseline_grade_24.xml
+vector;obj\Debug\90\res\drawable\baseline_info_24.xml
+vector;obj\Debug\90\res\drawable\baseline_music_note_24.xml
 xamarin.forms.platform.android.appcompat.FormsViewPager;C:\Users\Rogelio\source\repos\CS481_HW3_Tab_Rogelio_Cordova\TabbedBar\TabbedBar.Android\obj\Debug\90\lp\39\jl\res\layout\rootlayout.xml

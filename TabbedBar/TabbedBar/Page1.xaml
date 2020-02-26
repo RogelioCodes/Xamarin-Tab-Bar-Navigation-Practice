@@ -5,7 +5,7 @@
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
              mc:Ignorable="d"
              x:Class="TabbedBar.Page1"
-    Title="Jazz"  IconImageSource="baseline_album_24.xml" >
+    Title="Jazz"  IconImageSource="baseline_music_note_24.xml" >
         <ContentPage.Content>
         <ScrollView>
             <StackLayout  HorizontalOptions="Center"  Padding="10">
