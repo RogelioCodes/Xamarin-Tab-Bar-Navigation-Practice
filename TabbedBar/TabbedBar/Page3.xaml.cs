@@ -13,7 +13,8 @@ namespace TabbedBar
     public partial class Page3 : ContentPage
     {
         
-        
+        int counter = 0;
+        int counter2 = 0;
         public Page3()
         {
             InitializeComponent();
@@ -21,6 +22,50 @@ namespace TabbedBar
             picClickFunc2();
             picClickFunc3();
             picClickFunc4();
+        }
+        protected override void OnAppearing()
+        {
+            ContentPage content = page3;
+            if(counter == 0) //color is cycled between a few variations.
+            {
+                page3.BackgroundColor = Color.Orange;
+                counter++;
+            }
+            else if(counter ==1)
+            {
+                page3.BackgroundColor = Color.Pink;
+                counter++;
+            }
+            else if(counter == 2)
+            {
+                page3.BackgroundColor = Color.Pink;
+                counter++;
+            }
+            else if (counter == 3)
+            {
+                page3.BackgroundColor = Color.Bisque;
+                counter++;
+            }
+            else if (counter == 4)
+            {
+                page3.BackgroundColor = Color.SeaShell;
+                counter++;
+            }
+            else if (counter > 4)
+            {
+                counter = 0;
+            }
+
+
+        }
+        protected override void OnDisappearing() //displays prompt when page is opened
+        {
+            if (counter2 < 1)
+            {
+                DisplayAlert("Hey!", "The background color will change every time you leave this page!", "OK");
+
+            }
+            counter2++;
         }
 
         void picClickFunc() //function that makes image direct to wikipedia page about album

@@ -5,7 +5,7 @@
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
              mc:Ignorable="d"
              x:Class="TabbedBar.Page3"
-    Title="Indie"  IconImageSource="baseline_grade_24.xml">
+    Title="Indie"  IconImageSource="baseline_grade_24.xml" x:Name="page3">
     <ContentPage.Content>
         <ScrollView>
             <StackLayout  HorizontalOptions="Center"  Padding="10">
